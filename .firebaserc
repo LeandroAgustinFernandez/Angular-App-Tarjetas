@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tarjetacredito-c9628": {
+      "hosting": {
+        "AppTarjeta": [
+          "tarjetacredito-c9628"
+        ]
+      }
+    }
+  }
+}
